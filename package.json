@@ -1,0 +1,15 @@
+{
+  "name": "di-lp",
+  "module": "lib/index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "fast-glob": "^3.3.3",
+    "lodash": "^4.17.21"
+  }
+}
