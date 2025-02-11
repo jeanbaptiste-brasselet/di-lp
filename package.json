@@ -5,11 +5,28 @@
   "devDependencies": {
     "@types/bun": "latest"
   },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
-  },
+  "peerDependencies": {},
   "dependencies": {
-    "fast-glob": "^3.3.3",
-    "lodash": "^4.17.21"
-  }
+    "fast-glob": "3.3.3",
+    "lodash": "4.17.21"
+  },
+  "version": "1.0.0",
+  "description": "To install dependencies:",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanbaptiste-brasselet/di-lp.git"
+  },
+  "author": "Jean-Baptiste Brasselet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanbaptiste-brasselet/di-lp/issues"
+  },
+  "homepage": "https://github.com/jeanbaptiste-brasselet/di-lp#readme"
 }
