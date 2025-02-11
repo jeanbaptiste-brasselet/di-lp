@@ -10,7 +10,7 @@
     "fast-glob": "3.3.3",
     "lodash": "4.17.21"
   },
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "To install dependencies:",
   "main": "lib/index.js",
   "directories": {
